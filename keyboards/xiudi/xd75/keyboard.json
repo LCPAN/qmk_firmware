@@ -2,7 +2,7 @@
     "keyboard_name": "XD75",
     "manufacturer": "xiudi",
     "url": "",
-    "maintainer": "qmk",
+    "maintainer": "lcp",
     "usb": {
         "vid": "0x7844",
         "pid": "0x7575",
